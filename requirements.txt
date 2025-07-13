@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn==1.4.1.post1
+joblib
+numpy
+pydantic
+cloudpickle
+jinja2
+email-validator
